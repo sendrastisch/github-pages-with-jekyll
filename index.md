@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welkom bij mijn inhaalspurt van mijn leerachterstand!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Dit is mijn github pages oefening. Ik heb geen idee wat ik aan het doen ben
